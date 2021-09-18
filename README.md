@@ -38,4 +38,4 @@ Run : npm start
 
 ![Screenshot of All Roles](./img/viewAllRoles.PNG)
 
-![Screenshot of All Employees](./img/viewAllEmployees.PNG)
+![Screenshot of All Employees](./img/viewAllEmployees.png)
