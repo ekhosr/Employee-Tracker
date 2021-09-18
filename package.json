@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "This application manages a company's employee database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhosr/Employee-Tracker.git"
+  },
+  "author": "Ehsan Khosravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekhosr/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/ekhosr/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.5",
+    "mysql2": "^2.3.0"
+  }
+}
